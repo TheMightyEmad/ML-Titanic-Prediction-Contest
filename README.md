@@ -16,7 +16,7 @@ The model is built using Logistic Regression and only uses a subset of the avail
 
 ## References
 
-The code in the notebook is based on the tutorial provided by [Manav Sehgal](https://www.kaggle.com/startupsci/titanic-data-science-solutions) on the Kaggle website. Other useful resources used for this notebook include:
+useful resources used for this notebook include:
 
 - [Scikit-Learn documentation](https://scikit-learn.org/stable/documentation.html)
 - [Pandas documentation](https://pandas.pydata.org/docs/)
